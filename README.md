@@ -2,5 +2,9 @@
 This is a slider application. Photos automatically change at certain time intervals.
 
 
-https://user-images.githubusercontent.com/105421946/215063899-48a8ba1a-1dd6-402b-988b-7911e4cc7cfe.mp4
+
+
+
+
+https://user-images.githubusercontent.com/105421946/215064957-d424501f-aad8-42fe-899e-1b37e37bd6b8.mp4
 
